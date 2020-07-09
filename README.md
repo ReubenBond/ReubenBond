@@ -1,4 +1,4 @@
-## I'm Reuben, a developer at Microsoft, working on [Orleans](https://github.com/dotnet/orleans)
+## I'm Reuben, a developer at Microsoft, building [Orleans](https://github.com/dotnet/orleans)
 
 ### [reublog](https://reubenbond.github.io/) - my posts on distributed sytems and writing high performance code
 
